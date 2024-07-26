@@ -27,7 +27,7 @@
 
 Users can also add profile pictures of their accounts and friends. They can verify their friends by scanning a QR code containing their information, preventing any unauthorized modifications to the friend's details. However, the profile picture can still be edited regardless of the friend's status.
 
-This application uses *Dart* as its programming language, *Flutter* for its SDK, and *Google Firebase* for the backend. Firebase Cloud Firestore is used for database collections, Firebase Authentication for user providers, and Firebase Storage for handling profile pictures.
+This application uses *Dart* as its programming language, *Flutter* for its SDK, and *Google Firebase* for the backend. Firebase Cloud Firestore is used for database collections, Firebase Authentication for user providers, and Firebase Storage for handling profile pictures. This project is an improved version of the past Kamisato [Records](https://github.com/bernardjezua/kamisato-records) and [Firebase](https://github.com/bernardjezua/kamisato-firebase) codes.
 
 ## Features
 
